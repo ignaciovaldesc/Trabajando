@@ -1,0 +1,51 @@
+/Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pruebas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'pruebas 1.0-SNAPSHOT API'
+paquete
+'/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/src/main/java/pruebas.java'
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/src/main/java/pruebas.java = 1610542308754
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/src/main/java = 1610384358321
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/constant-values.html = 1610542755279
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/tag-search-index.js = 1610542755420
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/overview-tree.html = 1610542755324
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/module-search-index.js = 1610542755408
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/index.html = 1610542755356
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/pruebas.html = 1610542755133
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/package-search-index.js = 1610542755410
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/jquery-ui.overrides.css = 1610542755702
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/package-use.html = 1610542755310
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/index-all.html = 1610542755422
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/allpackages-index.html = 1610542755455
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/deprecated-list.html = 1610542755342
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/member-search-index.js = 1610542755419
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/script.js = 1610542755515
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/stylesheet.css = 1610542755500
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/overview-summary.html = 1610542755469
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/help-doc.html = 1610542755492
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/package-summary.html = 1610542755240
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/package-tree.html = 1610542755250
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/element-list = 1610542755216
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/allclasses-index.html = 1610542755450
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/type-search-index.js = 1610542755412
+/Users/ignaciovaldeschavez/NetBeansProjects/pruebas/target/site/apidocs/search.js = 1610542755525
